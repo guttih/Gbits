@@ -1,7 +1,7 @@
 
 #include <arduino.h>
 
-#include "gbits.h"
+#include "Gbits.h"
 
 Gbits bits(32, 0xffffffff);
 
